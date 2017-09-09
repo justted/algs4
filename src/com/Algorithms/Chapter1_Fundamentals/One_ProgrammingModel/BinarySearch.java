@@ -1,4 +1,4 @@
-package com.algs.chapter1.one;
+package com.Algorithms.Chapter1_Fundamentals.One_ProgrammingModel;
 
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdIn;

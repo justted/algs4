@@ -1,4 +1,4 @@
-package com.algs.chapter1.one;
+package com.Algorithms.Chapter1_Fundamentals.One_ProgrammingModel;
 
 import edu.princeton.cs.algs4.StdOut;
 
@@ -7,7 +7,7 @@ import java.util.Random;
 /**
  * Created by justted on 2017/9/6.
  */
-public class Exercise1111 {
+public class Exercise1_1_11 {
     public static void main(String[] args) {
         Random random = new Random();
         boolean [][] a = new boolean[5][6];

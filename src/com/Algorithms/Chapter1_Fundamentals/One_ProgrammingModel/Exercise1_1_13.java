@@ -1,4 +1,4 @@
-package com.algs.chapter1.one;
+package com.Algorithms.Chapter1_Fundamentals.One_ProgrammingModel;
 
 import edu.princeton.cs.algs4.StdOut;
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * Created by justted on 2017/9/6.
  */
-public class Exercise1113 {
+public class Exercise1_1_13 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         StdOut.println("请输入数组的行数和列数：");

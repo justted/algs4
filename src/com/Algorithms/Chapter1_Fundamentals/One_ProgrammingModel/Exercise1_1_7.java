@@ -1,11 +1,11 @@
-package com.algs.chapter1.one;
+package com.Algorithms.Chapter1_Fundamentals.One_ProgrammingModel;
 
 import edu.princeton.cs.algs4.StdOut;
 
 /**
  * Created by justted on 2017/9/5.
  */
-public class Exercise117 {
+public class Exercise1_1_7 {
     public static void main(String[] args) {
         double t = 9.0;
         while (Math.abs(t-9.0/t)>.001){

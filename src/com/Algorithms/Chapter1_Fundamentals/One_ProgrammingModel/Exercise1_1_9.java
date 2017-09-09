@@ -1,11 +1,11 @@
-package com.algs.chapter1.one;
+package com.Algorithms.Chapter1_Fundamentals.One_ProgrammingModel;
 
 import edu.princeton.cs.algs4.StdOut;
 
 /**
  * Created by justted on 2017/9/5.
  */
-public class Exercise119 {
+public class Exercise1_1_9 {
     public static void main(String[] args) {
         int N = 54;
         String s = Integer.toBinaryString(N);

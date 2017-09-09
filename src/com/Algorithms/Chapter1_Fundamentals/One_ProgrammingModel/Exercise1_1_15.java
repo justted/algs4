@@ -1,4 +1,4 @@
-package com.algs.chapter1.one;
+package com.Algorithms.Chapter1_Fundamentals.One_ProgrammingModel;
 
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
@@ -6,7 +6,7 @@ import edu.princeton.cs.algs4.StdRandom;
 /**
  * Created by justted on 2017/9/6.
  */
-public class Exercise1115 {
+public class Exercise1_1_15 {
 
     public static int[] histogram(int[] a, int M){
         //初始化一个数组，默认各项全部为零

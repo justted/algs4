@@ -1,11 +1,11 @@
-package com.algs.chapter1.one;
+package com.Algorithms.Chapter1_Fundamentals.One_ProgrammingModel;
 
 import edu.princeton.cs.algs4.StdOut;
 
 /**
  * Created by justted on 2017/9/5.
  */
-public class Exercise113 {
+public class Exercise1_1_3 {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);
         int b = Integer.parseInt(args[1]);
