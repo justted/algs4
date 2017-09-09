@@ -1,5 +1,7 @@
 package com.algs.chapter1.one;
 
+import edu.princeton.cs.algs4.StdOut;
+
 /**
  * Created by justted on 2017/9/5.
  */
@@ -10,12 +12,12 @@ public class Exercise113 {
         int c = Integer.parseInt(args[2]);
         if (a == b){
 //            if (a == c)
-//                System.out.println("equal");
+//                StdOut.println("equal");
 //            else
-//                System.out.println("not equal");
-            System.out.println(a==c?"equal":"not equal");
+//                StdOut.println("not equal");
+            StdOut.println(a==c?"equal":"not equal");
         }else {
-            System.out.println("not equal");
+            StdOut.println("not equal");
         }
     }
 }

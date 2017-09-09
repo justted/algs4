@@ -1,5 +1,7 @@
 package com.algs.chapter1.one;
 
+import edu.princeton.cs.algs4.StdOut;
+
 /**
  * Created by justted on 2017/9/5.
  */
@@ -8,7 +10,7 @@ public class Exercise1110 {
         int[] a = new int[10];
         for (int i = 0; i < 10; i++) {
             a[i] = i*i;
-            System.out.println(a[i]);
+            StdOut.println(a[i]);
         }
     }
 }

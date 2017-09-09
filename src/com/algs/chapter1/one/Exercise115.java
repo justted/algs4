@@ -1,5 +1,7 @@
 package com.algs.chapter1.one;
 
+import edu.princeton.cs.algs4.StdOut;
+
 /**
  * Created by justted on 2017/9/5.
  */
@@ -17,6 +19,6 @@ public class Exercise115 {
         double x = 0.36;
         double y = 0.8;
         Exercise115 e = new Exercise115();
-        System.out.println(e.testDouble(x)&&e.testDouble(y));
+        StdOut.println(e.testDouble(x)&&e.testDouble(y));
     }
 }
