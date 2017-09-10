@@ -29,7 +29,8 @@ public class Exercise1_1_23 {
         // “ + ” --> 打印出标准输入中不在白名单上的值，
         // “ - ” --> 打印出标准输入中在白名单上的值
         char symbol = '+';
-        int[] whitelist = In.readInts(args[0]);
+        //readAllInts()返回一个int数组
+        int[] whitelist = new In(args[0]).readAllInts();
         Arrays.sort(whitelist);
         //以下使用了Java的重定向IO标准
         FileInputStream file = null;
