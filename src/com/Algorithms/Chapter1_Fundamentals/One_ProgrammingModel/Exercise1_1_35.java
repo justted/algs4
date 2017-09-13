@@ -91,7 +91,8 @@ public class Exercise1_1_35 {
             // 当前N不合要求，则将N扩大10倍
             N *= 10;
         }
-        return N;//因为指的是数量级，所以最后在合适的N上还乘以了10
+        return N;
+        //因为指的是数量级，所以最后在合适的N上还乘以了10
     }
 
     public static void main(String[] args) {
